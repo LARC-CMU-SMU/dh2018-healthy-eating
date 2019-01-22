@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.ipynb_checkpoints
+.sublime-project
+.sublime-workspace
+node_modules
+playgrounds
+npm-debug.log
+data/
+reports/
