@@ -6,7 +6,7 @@ This repository contains the dataset and two Jupyter notebooks used for reproduc
 Please contact [Aek](mailto:palakorna@smu.edu.sg?cc=palakorn@gmail.com) if you have any questions or problems.
 
 ## Requirements
-The notebooks have been tested in Python 2.7 with the following packages:
+The notebooks have been tested in Python 2.7 via Anaconda with the following packages:
 
 * Pandas 0.23
 * Matplotlib 2.2.3
