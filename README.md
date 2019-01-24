@@ -1,7 +1,7 @@
 
 # Does Journaling Encourage Healthier Choices? Analyzing Healthy Eating Behaviors of Food Journalers
 
-This repository contains the dataset and two Jupyter notebooks used for reproducing the results published in our [Digital Health 2018 paper](https://www.researchgate.net/publication/323956631_Does_Journaling_Encourage_Healthier_Choices_Analyzing_Healthy_Eating_Behaviors_of_Food_Journalerse):
+This repository contains two Jupyter notebooks used for reproducing the results published in our [Digital Health 2018 paper](https://www.researchgate.net/publication/323956631_Does_Journaling_Encourage_Healthier_Choices_Analyzing_Healthy_Eating_Behaviors_of_Food_Journalerse):
 
 Achananuparp, P., Lim, E.-P., & Abhishek, V. (2018). Does Journaling Encourage Healthier Choices? Analyzing Healthy Eating Behaviors of Food Journalers. In Proceedings of the 2018 International Conference on Digital Health - DH ’18 (pp. 35–44). New York, New York, USA: ACM Press. https://doi.org/10.1145/3194658.3194663
 
