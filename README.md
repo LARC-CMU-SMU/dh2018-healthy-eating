@@ -26,7 +26,7 @@ project
 │   │   fv_servs.csv
 │   │   protein_servs.csv
 │   │   sugar_servs.csv
-│   │   diary_days.csv
+│   │   daily_calories_details.csv
 │   │   lapses.csv
 └───notebooks
 │   │   1-exploratory-data-analysis.ipynb
